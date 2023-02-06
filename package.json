@@ -35,7 +35,7 @@
     "@types/node": "16.x",
     "@types/sharp": "^0.30.x",
     "@types/uuid": "^8.3.x",
-    "@typescript-eslint/eslint-plugin": "^5.17.0",
+    "@typescript-eslint/eslint-plugin": "^5.50.0",
     "@typescript-eslint/parser": "^5.17.0",
     "@vercel/ncc": "0.33.3",
     "dotenv": "^16.0.0",
